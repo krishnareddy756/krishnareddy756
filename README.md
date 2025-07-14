@@ -15,41 +15,30 @@
 
 ---
 
+### 🌐 Live Portfolio
+
+🚀 [**Click Here to View My Live Portfolio**](https://personal-portfolio-o41c-git-main-krishnareddy756s-projects.vercel.app/#contact)
+
+---
+
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="30" />&nbsp;&nbsp;Java
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" height="30" />&nbsp;&nbsp;Python
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=kotlin" height="30" />&nbsp;&nbsp;Kotlin
+  <img src="https://skillicons.dev/icons?i=java" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kotlin" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="30" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="30" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="30" />&nbsp;&nbsp;React
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" />&nbsp;&nbsp;Node.js
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" />&nbsp;&nbsp;MongoDB
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" />&nbsp;&nbsp;MySQL
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="30" />&nbsp;&nbsp;HTML
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="30" />&nbsp;&nbsp;CSS
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="30" />&nbsp;&nbsp;JavaScript
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="30" />&nbsp;&nbsp;Git
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="30" />&nbsp;&nbsp;GitHub
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" height="30" />&nbsp;&nbsp;Docker
-</p>
 ---
 
 ### 📈 GitHub Stats
@@ -75,11 +64,6 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/krishna-reddy-ab8017275/">
-    🔗 LinkedIn: Krishna Reddy
-  </a>
-  <br/>
-  <a href="mailto:krishnareddy1604k@gmail.com">
-    📧 Email: krishnareddy1604k@gmail.com
-  </a>
+  <a href="https://www.linkedin.com/in/krishna-reddy-ab8017275/">🔗 LinkedIn: Krishna Reddy</a><br/>
+  <a href="mailto:krishnareddy1604k@gmail.com">📧 Email: krishnareddy1604k@gmail.com</a>
 </p>
