@@ -17,7 +17,7 @@
 
 ### 🌐 Live Portfolio
 
-🚀 [**Click Here to View My Live Portfolio**](https://personal-portfolio-o41c-git-main-krishnareddy756s-projects.vercel.app/#contact)
+🚀 [**Click Here to View My Live Portfolio**](https://www.saikrishnareddy.dev/)
 
 ---
 
