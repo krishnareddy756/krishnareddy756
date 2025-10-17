@@ -18,7 +18,7 @@
 
 ## 💼 Professional Experience
 
-### Apna College — Delta Student Program | Jun 2024 – Present
+### Apna College — FullStack Developer Trainee | Jun 2024 – Dec 2024
 **Remote**
 
 - Full-Stack Development: Built projects using the **MERN stack** (MongoDB, Express, React, Node.js) following the MVC architecture with focus on authentication, APIs, and scalable design.
