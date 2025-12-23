@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Krishna+Reddy;Full+Stack+Developer;Kubernetes+Engineer;Cloud+Native+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Krishna+Reddy;Full+Stack+Developer;AI/ML+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 Professional Summary
 
-**Software Engineer** specializing in **Full Stack Development** and **Cloud Native Technologies**.  
+**Software Engineer** specializing in **Full Stack Development** and **Artificial Intelligence & Machine Learning**.  
 Pursuing **B.Tech in Computer Science** at **VIT-AP University**.  
 Passionate about building scalable systems and solving algorithmic challenges efficiently.
 
