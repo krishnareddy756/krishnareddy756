@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Krishna+Reddy;Full+Stack+Developer;Android+Developer;Problem+Solver;Always+Learning+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Krishna+Reddy;Full+Stack+Developer;Kubernetes+Engineer;Cloud+Native+Developer" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 Professional Summary
 
-**Software Engineer** specializing in **Full Stack Development** and **Mobile Application Development**.  
+**Software Engineer** specializing in **Full Stack Development** and **Cloud Native Technologies**.  
 Pursuing **B.Tech in Computer Science** at **VIT-AP University**.  
 Passionate about building scalable systems and solving algorithmic challenges efficiently.
 
 ### 🧠 Core Competencies
 - **Full-Stack Development:** MERN Stack, RESTful APIs, Database Design  
-- **Mobile Development:** Android SDK, Kotlin, Jetpack Components  
+- **Cloud Native & DevOps:** Kubernetes, Docker, Container Orchestration  
 - **Problem Solving:** 500+ LeetCode Problems Solved  
 - **System Design:** Scalable architecture patterns and best practices  
 
@@ -35,7 +35,7 @@ Passionate about building scalable systems and solving algorithmic challenges ef
 **VIT-AP University (2022 – 2026)**  
 
 📚 *Relevant Coursework:* Data Structures, Algorithms, DBMS, Software Engineering  
-🎯 *Academic Projects:* Web and Android development, AI-based applications  
+🎯 *Academic Projects:* Web development, Cloud Native applications, AI-based systems  
 
 ---
 
@@ -61,10 +61,11 @@ Passionate about building scalable systems and solving algorithmic challenges ef
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧰 Tools & Platforms  
+### ☁️ Cloud & DevOps  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
@@ -132,7 +133,7 @@ Achieved **94% accuracy** in sentiment classification for text-based emotional a
 
 | Certification | Organization | Status |
 |---------------|---------------|---------|
-| 📱 App Developer | Imarticus Learning | ✅ Completed |
+| ☸️ Kubernetes Administrator | Cloud Native Computing Foundation | ✅ Completed |
 | ☁️ AWS Cloud Practitioner | AWS | ✅ Completed |
 | 🗄️ MongoDB DBA Associate | MongoDB University | ✅ Completed |
 | 🌐 MERN Stack Developer | Apna College | ✅ Completed |
@@ -169,7 +170,7 @@ Achieved **94% accuracy** in sentiment classification for text-based emotional a
 ### 💡 Open for Opportunities  
 Actively seeking **Software Engineer** roles and meaningful collaborations.  
 
-> “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
+> "Code is like humor. When you have to explain it, it's bad." — *Cory House*
 
 [![Hire Me](https://img.shields.io/badge/Available%20for%20Hire-Yes-success?style=for-the-badge)](mailto:krishnareddy1604k@gmail.com)
 
