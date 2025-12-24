@@ -93,10 +93,17 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnareddy756&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnareddy756&theme=tokyonight" height="165"/>
-</p>
+<div align="center">
+  
+[![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnareddy756&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/krishnareddy756)
+
+[![GitHub Streak](https://streak-stats.demolab.com/? user=krishnareddy756&theme=tokyonight&hide_border=true)](https://github.com/krishnareddy756)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnareddy756&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/krishnareddy756)
+
+[![Trophies](https://github-profile-trophy.vercel.app/? username=krishnareddy756&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/krishnareddy756)
+
+</div>
 
 ---
 
@@ -109,5 +116,5 @@
 
 <p align="center">
   ⭐ If you like my work, consider starring my repositories!  
-  🤝 Open to internships, collaborations & learning opportunities.
+  🤝 Open to internships, collaborations & learning opportunities. 
 </p>
