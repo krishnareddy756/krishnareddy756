@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Sai Krishna Reddy</h1>
 
 <p align="center">
-  🎓 Computer Science Undergraduate • 💻 Full-Stack Developer • 🤖 AI Enthusiast
+  🎓 Computer Science Undergraduate • 💻 Full-Stack Developer • 🤖 AI & Backend Enthusiast
 </p>
 
 <p align="center">
@@ -15,12 +15,12 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech in **Computer Science** @ **VIT Amaravati** (CGPA: **8.64**)  
-💡 Strong in **DSA, OOPs, DBMS, OS, CN**  
-📈 Solved **500+ DSA problems** on LeetCode  
-🛠️ Built **Full-Stack MERN** and **AI-powered applications**  
+🎓 **B.Tech in Computer Science** @ **VIT Amaravati** (CGPA: **8.68**)  
+💡 Strong foundation in **DSA, OOPs, DBMS, OS, CN**  
+📈 Solved **700+ DSA problems** on LeetCode  
+🛠️ Built **scalable MERN & AI-powered applications**  
 ☁️ Certified in **AWS, MongoDB & Generative AI**  
-🌱 Currently focusing on **backend scalability & system design**
+🌱 Currently focusing on **backend scalability, system design & cloud-native apps**
 
 ---
 
@@ -33,44 +33,44 @@
 
 ### ⚙️ Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,redux,tailwind" />
 </p>
 
-### 🗄️ Databases & Tools
+### 🗄️ Databases, DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,kubernetes,git,linux,vscode,postman" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🤖 SigmaGPT — AI Chatbot (Full Stack)
-**Tech:** React, Node.js, LangChain, MongoDB Atlas, OpenAI  
-- Context-aware AI chatbot with real-time responses  
-- Tool calling (web search, calculator) using LangChain  
-- Persistent chat history with MongoDB  
-- Deployed with streaming support  
+### 🤖 **SigmaGPT — AI Chatbot (Full Stack)**
+**Tech:** React, Node.js, LangChain, FAISS, MongoDB Atlas, OpenAI  
+- Built a **context-aware AI chatbot** using **RAG** for fact-grounded responses  
+- Enabled semantic search over **web data & uploaded documents (PDF/DOCX)**  
+- Implemented **real-time streaming responses** with persistent chat history  
+- Deployed on **Vercel & Render** with production-ready architecture  
 
 🔗 **Repository:** Check GitHub
 
 ---
 
-### 🏡 Wanderlust — MERN Booking Platform
-**Tech:** MERN Stack, MVC Architecture, JWT  
-- Property listings & booking system  
-- Secure authentication & authorization  
-- RESTful APIs with full CRUD operations  
-- Deployed and tested with real users  
+### 🏡 **Wanderlust — MERN Booking Platform**
+**Tech:** MERN Stack, MVC Architecture, JWT, Docker  
+- Developed a **property listing & booking platform** with secure authentication  
+- Implemented **RESTful CRUD APIs** and role-based authorization  
+- Dockerized the application for **consistent dev & production environments**  
+- Deployed with **MongoDB Atlas** and tested with real users  
 
 ---
 
-### 🧠 Lumbar Spine Degeneration Classification
+### 🧠 **Lumbar Spine Degeneration Classification**
 **Tech:** PyTorch, CNN, EfficientNetV2, DICOM  
-- MRI-based medical image classification  
-- Transfer learning & fine-tuning  
-- Achieved **90%+ validation accuracy**  
-- Implemented evaluation metrics & confusion matrix  
+- Built an **end-to-end deep learning pipeline** for MRI image classification  
+- Applied **transfer learning & fine-tuning** on EfficientNetV2  
+- Achieved **87%+ validation accuracy** with optimized regularization  
+- Evaluated performance using **confusion matrix & medical metrics**  
 
 ---
 
@@ -79,29 +79,30 @@
 🏅 AWS Certified Cloud Practitioner  
 🏅 MongoDB Database Administrator  
 🏅 Oracle OCI Generative AI Professional  
+🏅 Salesforce AI Agent Developer Track  
 
 ---
 
 ## 📈 Achievements
 
-- 🧩 Solved **500+ DSA problems**
-- 🏁 Active participant in coding contests
-- 🎯 **AP EAMCET Rank:** 3343 / 2.5L+
-- 📊 **JEE Mains 2022:** 92.8 percentile
+- 🧩 Solved **700+ DSA problems** on LeetCode  
+- 🏁 Active participant in coding contests  
+- 🎯 **AP EAMCET Rank:** 3343 / 2.5L+  
+- 📊 **JEE Mains 2022:** 92.8 percentile  
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-[![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnareddy756&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/krishnareddy756)
 
-[![GitHub Streak](https://streak-stats.demolab.com/? user=krishnareddy756&theme=tokyonight&hide_border=true)](https://github.com/krishnareddy756)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnareddy756&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/krishnareddy756)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=krishnareddy756&theme=tokyonight&hide_border=true)](https://github.com/krishnareddy756)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnareddy756&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/krishnareddy756)
 
-[![Trophies](https://github-profile-trophy.vercel.app/? username=krishnareddy756&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/krishnareddy756)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=krishnareddy756&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/krishnareddy756)
 
 </div>
 
@@ -116,5 +117,5 @@
 
 <p align="center">
   ⭐ If you like my work, consider starring my repositories!  
-  🤝 Open to internships, collaborations & learning opportunities. 
+  🤝 Open to internships, backend roles & impactful collaborations.
 </p>
